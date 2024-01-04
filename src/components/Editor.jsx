@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-import { useState } from "react";
 import MDEditor from "@uiw/react-md-editor";
 
 export default function Editor({ currentNote, updateNote }) {
